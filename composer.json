@@ -1,0 +1,17 @@
+{
+    "name": "php-projects/url.dev",
+    "description": "A simple URL shortener",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rosie Faulkner",
+            "email": "faulknerproject@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": { "URLShortener\\": "src/"}
+    }
+}
