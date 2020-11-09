@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>URL Shortner</title>
+    <title>URL Shortener</title>
 </head>
 <body>
 <h1>URL Shortener</h1>
